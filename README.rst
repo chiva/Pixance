@@ -18,14 +18,14 @@ This script makes use of the following external libraries:
 Pre-requisites
 --------------
 
-You must have an account at ThingSpeak_, create a channel and provide the *API Key* to the script at start.
+You must have an account at ThingSpeak_, create a channel and generate a *Write API Key*.
 
 .. _ThingSpeak: http://www.thingspeak.com
 
 Usage
 -----
 
-Once you have installed the required libraries just launch the script, provide the ThingSpeak *API Key* and press *Start*.
+Once you have installed the required libraries just launch the script, provide the ThingSpeak *Write API Key* and press *Start*.
 
 Demo
 ----
