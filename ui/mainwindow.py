@@ -45,7 +45,7 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         self.connect(self.timer,
                     SIGNAL("timeout()"),
                      self.updateTS)
-        self.timer.start(20000)
+        self.timer.start(60000)
 
     def updateTS(self):
         global distance
