@@ -27,7 +27,7 @@ As simple as that!
 
 |window|
 
-.. |WINDOW| image:: https://5603266437227755332-a-kungfulabs-com-s-sites.googlegroups.com/a/kungfulabs.com/wiki/pixance.png
+.. |WINDOW| image:: http://img845.imageshack.us/img845/4262/pixance.png
 
 Demo
 ----
